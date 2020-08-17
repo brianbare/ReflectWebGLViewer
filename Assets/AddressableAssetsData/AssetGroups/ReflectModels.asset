@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ReflectModels
+  m_EditorClassIdentifier: 
+  m_GroupName: ReflectModels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ea4fc40d5ef680a46853bf045df5cec0
+  m_SerializeEntries:
+  - m_GUID: 1222fc88eb15dff4491bcc7d0764865e
+    m_Address: Assets/Prefabs/Basic House.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Model
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 70e5ffab0c5a7a84dbe1e90d7efedf28
+    m_Address: Assets/Prefabs/Navis School Structure.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Model
+    m_MainAsset: {fileID: 5809175714214388623, guid: 70e5ffab0c5a7a84dbe1e90d7efedf28,
+      type: 3}
+    m_TargetAsset: {fileID: 5809175714214388623, guid: 70e5ffab0c5a7a84dbe1e90d7efedf28,
+      type: 3}
+  - m_GUID: daaa78daf0f3b264babc1a66a81c850a
+    m_Address: Assets/Prefabs/Technical School Arch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Model
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 063369db7225cd942b23fdbcfa9123bc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a5cf870a66846b94494350ffced7c6b2, type: 2}
+    - {fileID: 11400000, guid: 734c3c87ffaff654eb25810ed2d978d9, type: 2}

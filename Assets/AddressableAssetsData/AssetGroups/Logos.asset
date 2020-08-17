@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Logos
+  m_EditorClassIdentifier: 
+  m_GroupName: Logos
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6fa64ee8aadf2e34094ebba50b07e1c3
+  m_SerializeEntries:
+  - m_GUID: 063369db7225cd942b23fdbcfa9123bc
+    m_Address: Assets/AddressableAssetsData/AddressableAssetSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bddb2b40459bf404cb7cab45b78a9ddb
+    m_Address: Assets/Custom Reflect Viewer/Logo Sprites/Unity-white.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LogoLabel
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cefa6255a5beb9c4f9efe90a55de24d9
+    m_Address: Assets/Custom Reflect Viewer/Logo Sprites/Unity-black.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OneLogo
+    - LogoLabel
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 063369db7225cd942b23fdbcfa9123bc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 34ec06c913cc8db40af5a77ed704e720, type: 2}
+    - {fileID: 11400000, guid: a73316d467eb2434493f4df213178e4e, type: 2}
